@@ -79,3 +79,4 @@ pipeline {
 //         echo 'Test Stage'
 
 // }    agent any
+        stage('Build') {
