@@ -4,3 +4,4 @@ trigger:
 steps:
 steps:
 steps:
+  vmImage: 'ubuntu-latest'
