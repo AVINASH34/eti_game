@@ -85,3 +85,4 @@ pipeline {
     agent any
             steps { sh 'docker build -t eti_game .' }
         stage('Build') {
+        stage('Build') {
