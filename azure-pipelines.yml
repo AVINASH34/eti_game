@@ -5,3 +5,4 @@ steps:
 steps:
 steps:
   vmImage: 'ubuntu-latest'
+  - script: echo 'Build step here'
