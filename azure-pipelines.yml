@@ -7,3 +7,4 @@ steps:
   vmImage: 'ubuntu-latest'
   - script: echo 'Build step here'
 steps:
+trigger:
