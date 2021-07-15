@@ -11,3 +11,4 @@ COPY . /app
 ENV DISPLAY=:99
 
 COPY . /app
+WORKDIR /app
