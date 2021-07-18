@@ -8,3 +8,4 @@ steps:
   - script: echo 'Build step here'
 steps:
 trigger:
+  - script: echo 'Build step here'
