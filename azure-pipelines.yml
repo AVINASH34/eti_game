@@ -9,3 +9,4 @@ steps:
 steps:
 trigger:
   - script: echo 'Build step here'
+  - main
