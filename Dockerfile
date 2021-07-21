@@ -12,3 +12,4 @@ ENV DISPLAY=:99
 
 COPY . /app
 WORKDIR /app
+CMD ["python", "game.py"]
