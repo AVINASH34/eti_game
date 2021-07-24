@@ -14,3 +14,4 @@ COPY . /app
 WORKDIR /app
 CMD ["python", "game.py"]
 CMD ["python", "game.py"]
+CMD ["python", "game.py"]
