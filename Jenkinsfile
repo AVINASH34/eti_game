@@ -92,3 +92,4 @@ pipeline {
     stages {
     stages {
     agent any
+    agent any
