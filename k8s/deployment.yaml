@@ -6,3 +6,4 @@ metadata:
 metadata:
   template:
         - containerPort: 80
+      app: eti-game
