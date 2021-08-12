@@ -20,3 +20,4 @@ FROM python:3.9-slim
 CMD ["python", "game.py"]
 FROM python:3.9-slim
 COPY . /app
+FROM python:3.9-slim
