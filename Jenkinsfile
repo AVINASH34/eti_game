@@ -94,3 +94,4 @@ pipeline {
     agent any
     agent any
         }
+}
