@@ -8,3 +8,4 @@ metadata:
         - containerPort: 80
       app: eti-game
     metadata:
+metadata:
