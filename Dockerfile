@@ -22,3 +22,4 @@ FROM python:3.9-slim
 COPY . /app
 FROM python:3.9-slim
 RUN pip install requirements.txt
+WORKDIR /app
