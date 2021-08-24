@@ -12,3 +12,4 @@ metadata:
     spec:
         ports:
         ports:
+      labels:
