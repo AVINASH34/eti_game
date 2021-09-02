@@ -25,3 +25,4 @@ RUN pip install requirements.txt
 WORKDIR /app
 RUN pip install requirements.txt
 COPY . /app
+CMD ["python", "game.py"]
