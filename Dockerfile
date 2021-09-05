@@ -27,3 +27,4 @@ RUN pip install requirements.txt
 COPY . /app
 CMD ["python", "game.py"]
 FROM python:3.9-slim
+FROM python:3.9-slim
