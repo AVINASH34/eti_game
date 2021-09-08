@@ -16,3 +16,4 @@ metadata:
       labels:
   replicas: 2
   selector:
+spec:
