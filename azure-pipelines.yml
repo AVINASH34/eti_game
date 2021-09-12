@@ -19,3 +19,4 @@ steps:
 trigger:
 steps:
   - script: echo 'Build step here'
+pool:
