@@ -20,3 +20,4 @@ trigger:
 steps:
   - script: echo 'Build step here'
 pool:
+  vmImage: 'ubuntu-latest'
