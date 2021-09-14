@@ -17,3 +17,4 @@ metadata:
   replicas: 2
   selector:
 spec:
+        - containerPort: 80
