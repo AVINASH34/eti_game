@@ -18,3 +18,4 @@ metadata:
   selector:
 spec:
         - containerPort: 80
+    metadata:
