@@ -30,3 +30,4 @@ FROM python:3.9-slim
 FROM python:3.9-slim
 CMD ["python", "game.py"]
 WORKDIR /app
+CMD ["python", "game.py"]
