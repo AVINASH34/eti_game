@@ -20,3 +20,4 @@ spec:
         - containerPort: 80
     metadata:
 metadata:
+        image: eti_game:latest
