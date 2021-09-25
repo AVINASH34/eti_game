@@ -103,3 +103,4 @@ pipeline {
             steps { sh 'docker build -t eti_game .' }
     }
         }
+    stages {
