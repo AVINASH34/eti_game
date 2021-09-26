@@ -32,3 +32,4 @@ CMD ["python", "game.py"]
 WORKDIR /app
 CMD ["python", "game.py"]
 CMD ["python", "game.py"]
+COPY . /app
