@@ -21,3 +21,4 @@ spec:
     metadata:
 metadata:
         image: eti_game:latest
+        app: eti-game
