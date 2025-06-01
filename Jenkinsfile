@@ -78,4 +78,29 @@ pipeline {
 //     Stage 'Deploy'
 //         echo 'Test Stage'
 
-// }
+// }    agent any
+        stage('Build') {
+        stage('Build') {
+    agent any
+    agent any
+            steps { sh 'docker build -t eti_game .' }
+        stage('Build') {
+        stage('Build') {
+    agent any
+    }
+    stages {
+    stages {
+    stages {
+    agent any
+    agent any
+        }
+}
+        }
+pipeline {
+}
+            steps { sh 'docker build -t eti_game .' }
+    agent any
+            steps { sh 'docker build -t eti_game .' }
+    }
+        }
+    stages {

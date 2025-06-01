@@ -1,0 +1,27 @@
+steps:
+  - main
+trigger:
+steps:
+steps:
+steps:
+  vmImage: 'ubuntu-latest'
+  - script: echo 'Build step here'
+steps:
+trigger:
+  - script: echo 'Build step here'
+  - main
+pool:
+  - script: echo 'Build step here'
+steps:
+steps:
+steps:
+steps:
+trigger:
+steps:
+  - script: echo 'Build step here'
+pool:
+  vmImage: 'ubuntu-latest'
+trigger:
+  - main
+steps:
+  - main
